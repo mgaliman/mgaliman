@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marko</h1>
-<h3 align="center">A passionate software engineer from Croatia</h3>
+<h3 align="center">A passionate software developer from Croatia</h3>
 
 - 🌱 I’m currently learning **Java web development**
 
