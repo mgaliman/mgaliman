@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marko</h1>
 <h3 align="center">A passionate software developer from Croatia</h3>
 
-- 🌱 I’m currently learning **Java web development**
+- 🌱 I’m currently learning **Angular and .NET**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/mgaliman?tab=repositories)
 
